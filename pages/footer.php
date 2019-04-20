@@ -11,7 +11,7 @@
 
   }
 ?>
-
+<hr class="mx-3 my-5 bg-secondary" >
 <!-- Footer -->
 <footer class="page-footer font-small stylish-color-dark pt-4">
 
@@ -64,7 +64,7 @@
     </div>
     <!-- Footer Links -->
 
-    <hr>
+    <hr class="bg-secondary">
 
     <!-- Call to action -->
     <ul class="list-unstyled list-inline text-center py-2">
@@ -107,7 +107,7 @@
     </ul>
     <!-- Call to action -->
 
-    <hr>
+    <hr class="bg-secondary">
 
     <!-- Social buttons -->
     <ul class="list-unstyled list-inline text-center">

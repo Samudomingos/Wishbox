@@ -77,5 +77,5 @@
           <a href="#" class="btn btn-primary">Saiba Mais</a>
         </div>
       </div>
-      <hr class="mx-3 my-5 bg-secondary" >
+      
 <?php require_once 'pages'.DIRECTORY_SEPARATOR.'footer.php'; ?>
